@@ -7,3 +7,33 @@ I used to kiss your head when you cried for me
 Hold your hand while the pain was all around
 Keep you warmed by the roaring sea
 Oh, you meant the world to me
+
+Notas de la clase de Macroeconomía; 
+PIB;
+Producto interno bruto.
+Es un circulo de ingresos/gastos. Hogares --> Mercados de factores de producción --> Empresas --> Mercados de bienes y servicios y viceversa.
+
+El PIB mide dos cosas a la vez: El ingreso total de todas las personas en la economía y el gasto total en los bienes y servicios producidos en la economía Ingreso == Gasto
+
+¿Por qué? El ingreso de una economía es lo mismo que su gasto debido a que cada transacción involucra a dos partes: Un comprador y un vendedor. Cada unidad monetaria gastada por algún comprador es una de ingreso para algún vendedor.
+
+DEFINICIÓN;
+Es el valor monetario total de los bienes y servicios finales producidos para el mercado dentro de las fronteras de un país en un periodo de tiempo determinado, generalmente un año. Es el indicador más amplio de la actividad económica agregada.
+"Es el valor monetario total"; El PIB suma todos los bienes, utilizando su precio de mercado, multiplicando la cantidad producida.
+"De los bienes y servicios"; No tiene solo en cuenta el valor de los bienes tangibles sino que también considera los servicios prestados. Son servicios intangibles que tienen un valor y se debe incorporar el PIB.
+El PIB mide el valor de productos tangibles (Bienes) e intangibles (Servicios).
+"Finales"; Solo se tienen en cuenta los bienes finales, es decir, aquellos que son vendidos a los consumidores. No se tienen en cuenta los bienes intermedios, es decir, aquellos que las personas compran para transformarlos y producir el bien final.
+Los intermedios son aquellos que son producidos y se utilizan para crear otros productos.
+"Producidos"; El PIB incluye solo lo producido en el periodo que estemos estudiando, y no incorpora las transacciones de productos de segunda mano.
+El PIB solo mide los productos producidos en este año, pero no mide la venta de productos de segunda mano.
+"Para el mercados" Solo se tienen en cuenta los bienes que se producen para el mercado. (Nosotros). Cuando una persona lava su carro o limpia su casa se han producido servicios que no son vendidos a nadie y por tanto que no se incluye en el PIB. Sin embargo, si vamos a un lavadero de carros o contratamos a una persona nos limpie la casa, entonces si incluiremos el servicio en el PIB porque estamos pagando por él.
+"Dentro de las fronteras del país";
+El PIB mide la producción vendida en el país, sin importar si es producida por colombianos o extranjeros.
+"En un determinado periodo de tiempo"; Valor total de lo producido en un año, con la intención de poder hacer comparaciones todos los años.
+¿Por qué es importante el PIB para un país? El PIB nos indica el crecimiento económico, el aumento de su capacidad de producción de un año a otro.
+Producción -- Aumenta renta -- más trabajadores -- baja desempleo.
+Que no mide el PIB?
+-El tiempo de ocio. -La economía sumergida o subterránea - La producción del hogar -Externalidades -El PIB no mide la calidad de los bienes y servicio producidos -Y las diferencias entre los diferentes estratos.
+¿Cómo se calcula el PIB?
+Método del gasto; Para calcular el PIB utilizando el enfoque de gastos, deben considerarse cada uno de los componentes de gastos separados y luego sumarlos. Importaciones > Exportaciones = Déficit.
+Superávit Ingresos > Gastos. Déficit. Ingresos < Gastos.
