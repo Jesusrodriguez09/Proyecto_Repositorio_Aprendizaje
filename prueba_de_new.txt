@@ -1,23 +1,25 @@
+**Letra de una canción**;
+
 I thought you were the one for me
 That's why I gave you everything
 Held you close by the stormy seas
-Oh, you meant the world to me 
+Oh, you meant the world to me.
 
 I used to kiss your head when you cried for me 
 Hold your hand while the pain was all around
 Keep you warmed by the roaring sea
-Oh, you meant the world to me
+Oh, you meant the world to me.
 
-Notas de la clase de Macroeconomía; 
+**Notas de la clase de Macroeconomía**; 
 PIB;
 Producto interno bruto.
-Es un circulo de ingresos/gastos. Hogares --> Mercados de factores de producción --> Empresas --> Mercados de bienes y servicios y viceversa.
+Es un circulo de ingresos/gastos. Hogares → Mercados de factores de producción → Empresas → Mercados de bienes y servicios y viceversa.
 
 El PIB mide dos cosas a la vez: El ingreso total de todas las personas en la economía y el gasto total en los bienes y servicios producidos en la economía Ingreso == Gasto
 
 ¿Por qué? El ingreso de una economía es lo mismo que su gasto debido a que cada transacción involucra a dos partes: Un comprador y un vendedor. Cada unidad monetaria gastada por algún comprador es una de ingreso para algún vendedor.
 
-DEFINICIÓN;
+*DEFINICIÓN*;
 Es el valor monetario total de los bienes y servicios finales producidos para el mercado dentro de las fronteras de un país en un periodo de tiempo determinado, generalmente un año. Es el indicador más amplio de la actividad económica agregada.
 "Es el valor monetario total"; El PIB suma todos los bienes, utilizando su precio de mercado, multiplicando la cantidad producida.
 "De los bienes y servicios"; No tiene solo en cuenta el valor de los bienes tangibles sino que también considera los servicios prestados. Son servicios intangibles que tienen un valor y se debe incorporar el PIB.
